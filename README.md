@@ -1,1 +1,1 @@
-Project teaching me the fundamentals of C# and .Net Framework.
+Project teaching me the fundamentals of C# and the .Net Framework.
