@@ -17,3 +17,43 @@ Jack of Diamonds
 2/19/2019 10:25:26 AM
 Queen of Hearts
 
+54cbec8c-420f-4997-bed6-7b4e5ce2eead
+2/19/2019 10:52:37 AM
+Ace of Diamonds
+
+2/19/2019 10:52:37 AM
+Ace of Clubs
+
+2/19/2019 10:52:37 AM
+Queen of Clubs
+
+2/19/2019 10:52:55 AM
+Two of Diamonds
+
+2/19/2019 10:52:55 AM
+Six of Clubs
+
+2/19/2019 10:52:55 AM
+Eight of Clubs
+
+2/19/2019 10:52:55 AM
+Seven of Spades
+
+2/19/2019 10:52:58 AM
+Ten of Hearts
+
+2/19/2019 10:52:58 AM
+Four of Hearts
+
+2/19/2019 10:53:04 AM
+Three of Hearts
+
+2/19/2019 10:53:04 AM
+Nine of Hearts
+
+2/19/2019 10:53:04 AM
+Three of Diamonds
+
+2/19/2019 10:53:04 AM
+Ten of Clubs
+

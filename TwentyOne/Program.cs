@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Casino;
 using Casino.TwentyOne;
 
@@ -7,7 +8,8 @@ namespace TwentyOne
     class Program
     {
         static void Main(string[] args)
-        {
+        {            
+
             Console.WriteLine("Welcome to the game 21! Please enter your name.");
             string playerName = Console.ReadLine();
 
@@ -20,6 +22,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "ya" || answer == "y")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Colej\source\repos\CSharpProjects\TwentyOne\log.txt", true))
+                {
+                    file.WriteLine(player.Id);                    
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivelyPlaying = true;
